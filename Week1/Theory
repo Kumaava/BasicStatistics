@@ -7,29 +7,52 @@ Coursera veteran and ready to get started? Then you might want to skip ahead to 
 topic: 'Exploring data'. You can always check the general information later. Veterans and newbies alike: Don't 
 forget to introduce yourself in the 'meet and greet' forum!
 
-
 Course introduction
 
 Hi there!10 min
-
 Welcome to Basic Statistics!3 min
-
 How to navigate this course10 min
-
 How to contribute10 min
-
 What to expect from this course
 
 General info - What will I learn in this course?10 min
-
 Course format - How is this course structured?10 min
-
 Requirements - What resources do I need?10 min
-
 Grading - How do I pass this course?10 min
-
 Team - Who created this course?10 min
-
 Honor Code - Integrity in this course10 min
-
 Useful literature and documents10 min
+Exploring Data
+Matthijs Rooduijn
+Emiel van Loon
+In this first module, we’ll introduce the basic concepts of descriptive statistics. We’ll talk about cases and variables, and we’ll explain how you can order them in a so-called data matrix. We’ll discuss various levels of measurement and we’ll show you how you can present your data by means of tables and graphs. We’ll also introduce measures of central tendency (like mode, median and mean) and dispersion (like range, interquartile range, variance and standard deviation). We’ll not only tell you how to interpret them; we’ll also explain how you can compute them. Finally, we’ll tell you more about z-scores. In this module we’ll only discuss situations in which we analyze one single variable. This is what we call univariate analysis. In the next module we will also introduce studies in which more variables are involved.
+
+More
+Data and visualisation
+
+Research in this MOOC10 min
+Practice Quiz: Survey18 questions
+Resume
+1.02 Data matrix and frequency table6 min
+1.03 Graphs and shapes of distributions7 min
+Data and visualisation10 min
+1.01 Cases, variables and levels of measurement7 min
+Measures of central tendency and dispersion
+
+Measures of central tendency and dispersion10 min
+1.04 Mode, median and mean6 min
+1.05 Range, interquartile range and box plot7 min
+1.06 Variance and standard deviation5 min
+Z-scores and example
+
+Z-scores and example10 min
+1.07 Z-scores4 min
+1.08 Example6 min
+Review
+
+Transcripts - Exploring data10 min
+Quiz: Exploring Data11 questions
+About the R labs10 min
+R lab - Getting started (part 1)1h
+R lab - Getting started (part 2)1h
+R lab - Exploring data1h
