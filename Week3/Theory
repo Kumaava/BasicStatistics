@@ -1,1 +1,40 @@
 
+This module introduces concepts from probability theory and the rules for calculating with probabilities. 
+This is not only useful for answering various kinds of applied statistical questions but also to understand 
+the statistical analyses that will be introduced in subsequent modules. We start by describing randomness, 
+and explain how random events surround us. Next, we provide an intuitive definition of probability through 
+an example and relate this to the concepts of events, sample space and random trials. A graphical tool to 
+understand these concepts is introduced here as well, the tree-diagram.Thereafter a number of concepts from 
+set theory are explained and related to probability calculations. Here the relation is made to tree-diagrams
+again, as well as contingency tables. We end with a lesson where conditional probabilities, independence and
+Bayes rule are explained. All in all, this is quite a theoretical module on a topic that is not always easy
+to grasp. That's why we have included as many intuitive examples as possible.
+
+Probability & Randomness
+
+Probability & randomness10 min
+3.01 Randomness4 min
+3.02 Probability4 min
+Sample space, events & tree diagrams
+
+Sample space, events & tree diagrams10 min
+3.03 Sample space, event, probability of event and tree diagram5 min
+3.04 Quantifying probabilities with tree diagram5 min
+Probability & sets
+
+Probability & sets10 min
+3.05 Basic set-theoretic concepts5 min
+3.06 Practice with sets7 min
+3.07 Union5 min
+Conditional probability & Independence
+
+Conditional probability & independence10 min
+3.08 Joint and marginal probabilities6 min
+3.09 Conditional probability4 min
+3.10 Independence between random events5 min
+3.11 More conditional probability, decision trees and Bayes' Law8 min
+Review
+
+Transcripts - Probability10 min
+Quiz: Probability15 questions
+R lab - Probability1h
