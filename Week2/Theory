@@ -1,1 +1,35 @@
 
+In this second module we’ll look at bivariate analyses: studies with two variables. First we’ll introduce
+the concept of correlation. We’ll investigate contingency tables (when it comes to categorical variables)
+and scatterplots (regarding quantitative variables). We’ll also learn how to understand and compute one
+of the most frequently used measures of correlation: Pearson's r. In the next part of the module we’ll 
+introduce the method of OLS regression analysis. We’ll explain how you (or the computer) can find the 
+regression line and how you can describe this line by means of an equation. We’ll show you that you can 
+assess how well the regression line fits your data by means of the so-called r-squared. We conclude the 
+module with a discussion of why you should always be very careful when interpreting the results of a 
+regression analysis.
+
+Correlation
+
+Correlation10 min
+2.01 Crosstabs and scatterplots7 min
+2.02 Pearson's r7 min
+Regression
+
+Regression10 min
+2.03 Regression - Finding the line3 min
+2.04 Regression - Describing the line7 min
+2.05 Regression - How good is the line?5 min
+Reference10 min
+Caveats & examples
+
+Caveats and examples10 min
+2.06 Correlation is not causation5 min
+2.07 Example contingency table3 min
+2.08 Example Pearson's r and regression8 min
+Reference10 min
+Review
+
+Transcripts - Correlation and regression10 min
+Quiz: Correlation and Regression10 questions
+R lab - Correlation and Regression1h
