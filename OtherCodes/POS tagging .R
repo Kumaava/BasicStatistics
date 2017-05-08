@@ -1,0 +1,70 @@
+
+
+text1 = " DONALD TRUMP’S quest to protect American 
+workers from cheating foreigners has begun. But in
+his first flurry of policy tweets and executive orders, 
+China, his favorite bogeyman, was conspicuously absent. 
+On the campaign trail he deplored China’s currency 
+manipulation, accused it of flouting global trade
+rules and threatened a 45% tariff on its exports,
+all to cheering crowds. Now, the world is waiting 
+to see how much of this he meant. "
+tag = treetag(text1,lang = "en",TT.options = list(path = "Users/avaneeshkumar/Downloads", present = "en"))
+
+
+ y =("('DONALD', 'NNP'), ('TRUMP\xe2\x80\x99S', 'NNP'),
+  ('quest', 'JJS'), ('to', 'TO'), ('protect', 'VB'),
+  ('American', 'JJ'), ('workers', 'NNS'), ('from', 'IN'),
+  ('cheating', 'VBG'), ('foreigners', 'NNS'), ('has', 'VBZ'),
+  ('begun', 'VBN'), ('.', '.'), ('But', 'CC'), ('in', 'IN'),
+  ('his', 'PRP$'), ('first', 'JJ'), ('flurry', 'NN'), ('of', 'IN'),
+  ('policy', 'NN'), ('tweets', 'NNS'), ('and', 'CC'), ('executive', 'NN'),
+  ('orders', 'NNS'), (',', ','), ('China', 'NNP'), (',', ','), ('his', 'PRP$'),
+  ('favorite', 'JJ'), ('bogeyman', 'NN'), (',', ','), ('was', 'VBD'),('conspicuously', 'RB'),
+  ('absent', 'JJ'), ('.', '.'), ('On', 'IN'), ('the', 'DT'),
+  ('campaign', 'NN'), ('trail', 'NN'), ('he', 'PRP'), ('deplored', 'VBD'),
+  ('China\xe2\x80\x99s', 'NNP'), ('currency', 'NN'), ('manipulation', 'NN'),
+  (',', ','), ('accused', 'VBD'), ('it', 'PRP'), ('of', 'IN'), ('flouting', 'VBG'), 
+  ('global', 'JJ'), ('trade', 'NN'), ('rules', 'NNS'), ('and', 'CC'), ('threatened', 'VBD'), 
+  ('a', 'DT'), ('45', 'CD'), ('%', 'NN'), ('tariff', 'NN'), ('on', 'IN'), ('its', 'PRP$'),
+  ('exports', 'NNS'), (',', ','), ('all', 'DT'), ('to', 'TO'), ('cheering', 'VBG'), ('crowds', 'NN'),
+  ('.', '.'), ('Now', 'RB'), (',', ','), ('the', 'DT'), ('world', 'NN'), ('is', 'VBZ'),
+  ('waiting', 'VBG'), ('to', 'TO'), ('see', 'VB'), ('how', 'WRB'), ('much', 'JJ'), 
+  ('of', 'IN'), ('this', 'DT'), ('he', 'PRP'), ('meant.The', 'VBZ'), ('promise', 'NN'),
+  ('to', 'TO'), ('label', 'VB'), ('China', 'NNP'), ('a', 'DT'), ('currency', 'NN'), ('manipulator', 'NN'),
+  ('has', 'VBZ'), ('not', 'RB'), ('been', 'VBN'), ('repeated', 'VBN'), ('.', '.'), ('An', 'DT'), 
+  ('optimistic', 'JJ'), ('interpretation', 'NN'), ('is', 'VBZ'), ('that', 'IN'), ('Mr', 'NNP'),
+  ('Trump', 'NNP'), ('has', 'VBZ'), ('realised', 'VBN'), ('that', 'IN'), ('the', 'DT'), 
+  ('promise', 'NN'), ('was', 'VBD'), ('based', 'VBN'), ('on', 'IN'), ('an', 'DT'),
+  ('\xe2\x80\x9calternative\xe2\x80\x9d', 'JJ'), ('fact', 'NN'), ('.', '.'), 
+  ('China', 'NNP'), ('is', 'VBZ'), ('no', 'RB'), ('longer', 'RBR'), ('squashing', 'VBG'),
+  ('its', 'PRP$'), ('currency', 'NN'), ('to', 'TO'), ('gain', 'VB'), ('a', 'DT'), 
+  ('competitive', 'JJ'), ('edge', 'NN'), (',', ','), ('but', 'CC'), ('is', 'VBZ'),
+  ('instead', 'RB'), ('propping', 'VBG'), ('it', 'PRP'), ('up', 'RP'), ('.', '.'), 
+  ('A', 'DT'), ('pessimistic', 'JJ'), ('one', 'NN'), ('is', 'VBZ'), ('that', 'IN'), 
+  ('Steven', 'NNP'), ('Mnuchin', 'NNP'), (',', ','), ('his', 'PRP$'), ('treasury', 'NN'),
+  ('secretary', 'NN'), (',', ','), ('who', 'WP'), ('would', 'MD'), ('do', 'VB'), ('the', 'DT'), 
+  ('labelling', 'NN'), (',', ','), ('is', 'VBZ'), ('not', 'RB'), ('yet', 'RB'),
+  ('confirmed', 'VBN'), ('by', 'IN'), ('the', 'DT'), ('Senate.Mr', 'NNP'), 
+  ('Trump', 'NNP'), ('certainly', 'RB'), ('has', 'VBZ'), ('the', 'DT'), 
+  ('power', 'NN'), ('to', 'TO'), ('wreak', 'VB'), ('trade', 'NN'), ('havoc', 'NN'),
+  ('.', '.'), ('A', 'DT'), ('big', 'JJ'), ('blanket', 'NN'), ('tariff', 'NN'),
+  ('would', 'MD'), ('slice', 'VB'), ('through', 'IN'), ('supply', 'NN'), 
+  ('chains', 'NNS'), (',', ','), ('hurt', 'VBN'), ('American', 'JJ'), 
+  ('consumers', 'NNS'), ('and', 'CC'), ('fly', 'NN'), ('in', 'IN'), 
+  ('the', 'DT'), ('face', 'NN'), ('of', 'IN'), ('the', 'DT'), ('global', 'JJ'), 
+  ('system', 'NN'), ('of', 'IN'), ('trade', 'NN'), ('rules', 'NNS'), 
+  ('overseen', 'VBP'), ('by', 'IN'), ('the', 'DT'), ('World', 'NNP'), 
+  ('Trade', 'NNP'), ('Organisation', 'NNP'), ('(', '('), ('WTO', 'NNP'),
+  (')', ')'), ('.', '.'), ('But', 'CC'), (',', ','), ('rather', 'RB'), 
+  ('than', 'IN'), ('blow', 'VB'), ('up', 'RP'), ('the', 'DT'), 
+  ('world\xe2\x80\x99s', 'NN'), ('trading', 'NN'), ('system', 'NN'),
+  (',', ','), ('Mr', 'NNP'), ('Trump', 'NNP'), ('may', 'MD'), 
+  ('yet', 'RB'), ('decide', 'VB'), ('to', 'TO'), ('take', 'VB'),
+  ('on', 'IN'), ('China', 'NNP'), ('within', 'IN'), ('it', 'PRP'),
+  ('.', '.'), ('The', 'DT'), ('White', 'NNP'), ('House', 'NNP'), 
+  ('website', 'NN'), (',', ','), ('without', 'IN'), ('naming', 'VBG'),
+  ('China', 'NNP'), (',', ','), ('promises', 'VBZ'), ('\xe2\x80\x9cto', 'NNP'), 
+  ('use', 'NN'), ('every', 'DT'), ('tool', 'NN'), ('at', 'IN'), ('the', 'DT'), 
+  ('federal', 'JJ'), ('government\xe2\x80\x99s', 'NN'), ('disposal\xe2\x80\x9d', 'NN'), 
+  ('to', 'TO'), ('end', 'VB'), ('trade', 'NN'), ('abuses', 'NNS'), ('.', '.')")
