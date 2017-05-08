@@ -1,6 +1,7 @@
 # Basic_Statistics-
 University of Amsterdam
 
+https://www.coursera.org/learn/basic-statistics
 
 Welcome to Basic Statistics. Thanks for taking this third course in the Specialization on Methods and Statistics in the Social Sciences! It’s great to have you join us!
 
@@ -12,5 +13,12 @@ If you’re new to Coursera, we recommend you explore the course site first. Che
 
 We hope you’ll enjoy the course! Good luck, and we’ll see you in class!
 
-Matthijs Rooduijn, Emiel van Loon & Team Basic Statistics
+Matthijs Rooduijn
+Taught by:    Matthijs Rooduijn, Dr.
+Department of Political Science
 
+Emiel van Loon
+Taught by:    Emiel van Loon, Assistant Professor
+Institute for Biodiversity and Ecosystem Dynamics
+
+8 weeks of study, week 1: 3-6 hours; week 2-8: 1-3 hours/week.
