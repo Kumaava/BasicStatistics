@@ -2,6 +2,7 @@
 University of Amsterdam
 
 https://www.coursera.org/learn/basic-statistics
+Files in R-Markdown
 
 Welcome to Basic Statistics. Thanks for taking this third course in the Specialization on Methods and Statistics in the Social Sciences! It’s great to have you join us!
 
