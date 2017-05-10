@@ -1,1 +1,49 @@
 
+Probability Distributions
+Matthijs Rooduijn
+Emiel van Loon
+Probability distributions form the core of many statistical calculations. 
+They are used as mathematical models to represent some random phenomenon and 
+subsequently answer statistical questions about that phenomenon. This module starts 
+by explaining the basic properties of a probability distribution, highlighting how 
+it quantifies a random variable and also pointing out how it differs between discrete
+and continuous random variables. Subsequently the cumulative probability distribution 
+is introduced and its properties and usage are explained as well. In a next lecture it 
+is shown how a random variable with its associated probability distribution can be 
+characterized by statistics like a mean and variance, just like observational data. 
+The effects of changing random variables by multiplication or addition on these statistics
+are explained as well.The lecture thereafter introduces the normal distribution, starting 
+by explaining its functional form and some general properties. Next, the basic usage of the
+normal distribution to calculate probabilities is explained. And in a final lecture the binomial
+distribution, an important probability distribution for discrete data, is introduced and further
+explained. By the end of this module you have covered quite some ground and have a solid basis 
+to answer the most frequently encountered statistical questions. Importantly, the fundamental
+knowledge about probability distributions that is presented here will also provide a solid 
+basis to learn about inferential statistics in the next modules.
+
+More
+Probability distributions
+
+Probability distributions10 min
+4.01 Random variables and probability distributions6 min
+4.02 Cumulative probability distributions5 min
+Mean and variance of a random variable
+
+Mean and variance of a random variable10 min
+4.03 The mean of a random variable4 min
+4.04 Variance of a random variable6 min
+The normal distribution
+
+The normal distribution10 min
+4.05 Functional form of the normal distribution6 min
+4.06 The normal distribution: probability calculations5 min
+4.07 The standard normal distribution8 min
+The binomial distribution
+
+The binomial distribution10 min
+4.08 The binomial distribution8 min
+Review
+
+Transcripts - Probability distributions10 min
+Quiz: Probability distributions15 questions
+R lab - Probability distributions1h
