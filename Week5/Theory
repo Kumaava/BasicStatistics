@@ -1,1 +1,36 @@
-w
+##Sampling Distributions
+
+Methods for summarizing sample data are called descriptive statistics.
+However, in most studies we’re not interested in samples, but in underlying populations.
+If we employ data obtained from a sample to draw conclusions about a wider population, 
+we are using methods of inferential statistics. It is therefore of essential importance 
+that you know how you should draw samples. In this module we’ll pay attention to good 
+sampling methods as well as some poor practices. To draw conclusions about the population
+a sample is from, researchers make use of a probability distribution that is very important 
+in the world of statistics: the sampling distribution. We’ll discuss sampling distributions 
+in great detail and compare them to data distributions and population distributions. We’ll 
+look at the sampling distribution of the sample mean and the sampling distribution of the sample proportion.
+
+More
+Sample and sampling
+
+Sample and sampling10 min
+5.01 Sample and population3 min
+5.02 Sampling8 min
+Sampling distribution of sample mean and central limit theorem
+
+Sampling distribution of sample mean and central limit theorem10 min
+5.03 The sampling distribution7 min
+5.04 The central limit theorem7 min
+5.05 Three distributions7 min
+Reference10 min
+Sampling distribution of sample proportion and example
+
+Sampling distribution of sample proportion and example10 min
+5.06 Sampling distribution proportion5 min
+5.07 Example6 min
+Review
+
+Transcripts - Sampling distributions10 min
+Quiz: Sampling distributions10 questions
+R lab - Sampling distributions1h
