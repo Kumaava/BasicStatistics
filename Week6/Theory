@@ -1,1 +1,28 @@
 
+Confidence Intervals
+Matthijs Rooduijn
+Emiel van Loon
+We can distinguish two types of statistical inference methods. We can: (1) estimate population parameters; and (2) test hypotheses about these parameters. In this module we’ll talk about the first type of inferential statistics: estimation by means of a confidence interval. A confidence interval is a range of numbers, which, most likely, contains the actual population value. The probability that the interval actually contains the population value is what we call the confidence level. In this module we’ll show you how you can construct confidence intervals for means and proportions and how you should interpret them. We’ll also pay attention to how you can decide how large your sample size should be.
+
+More
+Inference and confidence interval for mean
+
+Inference and confidence interval for mean10 min
+6.01 Statistical inference3 min
+6.02 CI for mean with known population sd5 min
+6.03 CI for mean with unknown population sd7 min
+Confidence interval for proportion and confidence levels
+
+Confidence interval for proportion and confidence levels10 min
+6.04 CI for proportion5 min
+6.05 Confidence levels6 min
+Sample size and example
+
+Sample size and example10 min
+6.06 Choosing the sample size5 min
+6.07 Example4 min
+Review
+
+Transcripts - Confidence intervals10 min
+Quiz: Confidence intervals10 questions
+R lab - Confidence intervals1h
