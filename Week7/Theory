@@ -1,1 +1,39 @@
 
+Significance Tests
+Matthijs Rooduijn
+Emiel van Loon
+In this module we’ll talk about statistical hypotheses. They form the main ingredients of the method
+of significance testing. An hypothesis is nothing more than an expectation about a population. When 
+we conduct a significance test, we use (just like when we construct a confidence interval) sample data
+to draw inferences about population parameters. The significance test is, therefore, also a method of
+inferential statistics. We’ll show that each significance test is based on two hypotheses: the null 
+hypothesis and the alternative hypothesis. When you do a significance test, you assume that the null 
+hypothesis is true unless your data provide strong evidence against it. We’ll show you how you can conduct
+a significance test about a mean and how you can conduct a test about a proportion. We’ll also demonstrate
+that significance tests and confidence intervals are closely related. We conclude the module by arguing 
+that you can make right and wrong decisions while doing a test. Wrong decisions are referred to as Type
+I and Type II errors.
+
+More
+Hypotheses and significance tests
+
+Hypotheses and significance tests10 min
+7.01 Hypotheses5 min
+7.02 Test about proportion7 min
+7.03 Test about mean4 min
+Step-by-step plan and confidence interval
+
+Step-by-step plan and confidence interval10 min
+7.04 Step-by-step plan7 min
+7.05 Significance test and confidence interval4 min
+Type I and Type II errors and example
+
+Type I and Type II errors and example10 min
+7.06 Type I and Type II errors4 min
+7.07 Example4 min
+Review
+
+Transcripts - Significance tests10 min
+Quiz: Significance tests10 questions
+R lab - Significance tests1h
+Due in 3 hours
